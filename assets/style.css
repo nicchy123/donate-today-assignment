@@ -1,0 +1,157 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+
+.main{
+    color: white;
+ text-align: center;
+ 
+ background-image: url(./images/donation13.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ height:60%;
+ margin: 0 auto;
+ background-size: cover;
+}
+.main-text{
+    /* width: 60%; */
+    padding: 10% 20%;
+    align-items: center;
+    /* padding-left: 17%;
+    padding-top: 5%;
+    padding-bottom: 5%; */
+
+}
+.main-p{
+    padding-bottom: 5%;
+}
+.button{
+    text-decoration: none;
+    padding: 2% 2%;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+}
+.donate-today{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    width: 65%;
+    padding-top: 5%;
+}
+.gray{
+    color: gray;
+}
+.donate-tk{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.donate-items{
+    padding: 3%;
+    background-color: whitesmoke;
+    margin-right: 7px;
+    align-items: center;
+    margin-left: 13px;
+    color: dimgray;
+}
+.tomato{
+    border: 1px solid tomato;
+    color: tomato;
+    background-color: rgb(243, 221, 218);
+}
+hr{
+    margin-bottom: 5%;
+}
+.plan-text{
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top:10% ;
+    width: 40%;
+}
+.icon-item{
+    margin: 0 auto;
+    margin-top: 5%;
+    display: flex;
+   justify-content: space-between;
+   width: 80%;
+  
+}
+.donate-bg{
+    background-color: rgb(235, 227, 227);
+    padding: 1%;
+    margin-right: 2%;
+    width: 30%;
+}
+.contribute{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+.contribute-img{
+   width: 80%;
+   padding-left: 15%;
+}
+.contribute-text{
+    width:55% ;
+    text-align: justify;
+}
+.contribute-img2{
+    width: 90%;
+}
+.contribute-text2{
+    padding-left:3% ;
+}
+.contribute-img3{
+    width: 80%;
+}
+.updates{
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 60%;
+}
+.form{
+    text-align: center;
+    align-items: center;
+    background-color:rgb(248, 224, 228) ;
+    width:60%;
+    margin: 0 auto;
+    padding: 5% 7%;
+}
+.form-text{
+    border: none;
+    padding: 2%;
+    background-color:rgb(216, 213, 213);
+    border-radius: 6%;
+}
+.form-button{
+    background-color: tomato;
+}
+footer{
+    background-color: black;
+    margin: 0 auto;
+    padding: 2%;
+    text-align: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.humble{
+    color: tomato;
+    font-family: 'Dancing Script', cursive;
+        font-family: 'Lobster', cursive;
+        font-weight: 300;
+}
